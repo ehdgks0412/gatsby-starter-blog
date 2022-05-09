@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 동한,
+    title: 동한 블로그,
     author: {
-      name: 동한,
-      summary: 첫번째 블로그 생성,
+      name: Noyes,
+      summary: make softwares,
     },
     description: A starter blog with gatsbyjs.,
     siteUrl: https://gatsbystarterblogsource.gatsbyjs.io/,
